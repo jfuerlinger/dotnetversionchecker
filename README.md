@@ -3,7 +3,6 @@
 Checks the version of the installed .net frameworks.
 
 Sample:
-
 ```
 v2.0.50727  2.0.50727.5420  SP2
 v3.0  3.0.30729.5420  SP2
